@@ -15,7 +15,7 @@ This is a small project, part of the Codecademy Full-stack Engineer Course, whic
 
 ## Technologies
 * HTML
-* CSS - grid for responsive design
+* CSS - responsive grid
 
 ## See live 
 Visit [this link](https://www.atanasdim.com/responsive-grid-fitness-club)
